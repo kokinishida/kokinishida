@@ -1,6 +1,6 @@
 Hello, I'm Koki. I am a self-taught Data Analyst based in Southern California. 👨‍💻
 
-##⭐️ A Quick About Me ⭐️
+## ⭐️ A Quick About Me ⭐️
 
 - 🔭 Background in Physics with computational methods
 - 📈 Loves working with numbers and solving complex problems
@@ -21,5 +21,5 @@ Welcome to my portfolio, where I showcase my projects.
 
 ## ✋ Connect With Me
 
-- LinkedIn
+- [LinkedIn](https://www.linkedin.com/in/koki-nishida/)
 
