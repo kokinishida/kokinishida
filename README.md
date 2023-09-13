@@ -21,5 +21,5 @@ Welcome to my portfolio, where I showcase my projects.
 
 ## ✋ Connect With Me
 
-- This site was built using [LinkedIn](https://www.linkedin.com/in/koki-nishida/).
+- [LinkedIn](https://www.linkedin.com/in/koki-nishida/).
 
